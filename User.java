@@ -13,7 +13,7 @@ public class User{
     private List<Movie> watchlist;
     private List<Rating> ratings;
 
-    public User(String name, int age, String gender, String email, String password) {
+    public User(String name, int age, String email, String password) {
         this.name = name;
         this.age = age;
         // this.gender = gender;
